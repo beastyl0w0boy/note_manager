@@ -1,0 +1,12 @@
+username = "Arkasha"
+title = "Уборка"
+content = "Вымыть пол"
+status = "В процессе"
+created_date = "17.01.2025"
+issue_date = "24.01.2025"
+print(username)
+print(title)
+print(content)
+print(status)
+print(created_date)
+print(issue_date)
